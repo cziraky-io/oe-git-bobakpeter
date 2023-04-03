@@ -15,3 +15,15 @@
   b. Version Central Server
   c. Version Command System
   d. Variable Control Server
+
+4. Az alábbiak közül melyik verzió követő szolgáltatás?
+  a. gitech
+  b. gitlab
+  c. gitgat
+  d. githab
+  
+5. Melyik parancsal lehet a lokális változtatásokat feltölteni a központi rendszerbe?
+  a. git pull
+  b. git push
+  c. git switch
+  d. git merge
